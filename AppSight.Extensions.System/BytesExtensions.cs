@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AppSight.System
+namespace AppSight.System.Extensions
 {
     public static class BytesExtensions
     {

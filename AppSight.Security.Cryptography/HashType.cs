@@ -1,4 +1,4 @@
-﻿namespace AppSight.System.Security.Cryptography
+﻿namespace AppSight.Security.Cryptography
 {
     public enum HashType
     {

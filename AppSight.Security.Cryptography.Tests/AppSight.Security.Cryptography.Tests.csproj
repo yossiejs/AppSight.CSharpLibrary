@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AppSight.System.Security.Cryptography\AppSight.System.Security.Cryptography.csproj" />
-    <ProjectReference Include="..\AppSight.System\AppSight.System.csproj" />
+    <ProjectReference Include="..\AppSight.System.Security.Cryptography\AppSight.Security.Cryptography.csproj" />
+    <ProjectReference Include="..\AppSight.System\AppSight.System.Extensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
