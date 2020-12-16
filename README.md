@@ -1,0 +1,1 @@
+# AppSight.CSharpLibrary
