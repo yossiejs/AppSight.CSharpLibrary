@@ -1,8 +1,7 @@
-using AppSight.System.Extensions;
-using AppSight.Security.Cryptography;
+using AppSight.Extensions.System;
 using Xunit;
 
-namespace AppSight.FileHashChecker.Library.Tests
+namespace AppSight.Security.Cryptography.Tests
 {
     public class FileHashCalculatorTest
     {

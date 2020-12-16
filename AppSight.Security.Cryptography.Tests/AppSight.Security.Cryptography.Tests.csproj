@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AppSight.System.Security.Cryptography\AppSight.Security.Cryptography.csproj" />
-    <ProjectReference Include="..\AppSight.System\AppSight.System.Extensions.csproj" />
+    <ProjectReference Include="..\AppSight.Extensions.System\AppSight.Extensions.System.csproj" />
+    <ProjectReference Include="..\AppSight.Security.Cryptography\AppSight.Security.Cryptography.csproj" />
   </ItemGroup>
 
   <ItemGroup>
