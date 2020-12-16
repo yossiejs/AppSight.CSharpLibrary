@@ -1,12 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Authors>yossiejs</Authors>
     <Company />
     <Product>AppSight</Product>
-    <Description>Extensions for System</Description>
-    <Copyright>yossiejs</Copyright>
+    <Description>System extensions for .NET</Description>
     <RepositoryUrl>https://github.com/yossiejs/AppSight.CSharpLibrary</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://github.com/yossiejs/AppSight.CSharpLibrary</PackageProjectUrl>
