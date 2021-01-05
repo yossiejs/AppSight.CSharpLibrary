@@ -3,6 +3,5 @@
 ## Summary
 CSharp libraries for .NET projects.
 
-## nuget.org
-https://www.nuget.org/packages/AppSight.Extensions.System/
-https://www.nuget.org/packages/AppSight.Security.Cryptography/
+## NuGet Gallery
+https://www.nuget.org/packages?q=AppSight
