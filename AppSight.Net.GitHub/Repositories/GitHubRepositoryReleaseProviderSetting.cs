@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AppSight.FileHashChecker.Library.Net.GitHub.Repositories
+namespace AppSight.Net.GitHub.Repositories
 {
     public class GitHubRepositoryReleaseProviderSetting
     {

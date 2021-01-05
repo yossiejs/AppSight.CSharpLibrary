@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppSight.FileHashChecker.Library.Net.GitHub.Repositories
+namespace AppSight.Net.GitHub.Repositories
 {
     public static class GitHubRepositoriesApiConstants
     {

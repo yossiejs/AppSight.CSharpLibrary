@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace AppSight.FileHashChecker.Library.Net.GitHub.Repositories
+namespace AppSight.Net.GitHub.Repositories
 {
     public class GitHubRepositoryRelease
     {

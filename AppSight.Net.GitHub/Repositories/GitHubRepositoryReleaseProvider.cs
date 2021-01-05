@@ -5,10 +5,10 @@ using System.Net.Http;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using AppSight.FileHashChecker.Library.Net.Releases;
+using AppSight.AutoUpdate;
 using Newtonsoft.Json;
 
-namespace AppSight.FileHashChecker.Library.Net.GitHub.Repositories
+namespace AppSight.Net.GitHub.Repositories
 {
     public class GitHubRepositoryReleaseProvider : IReleaseProvider
     {
