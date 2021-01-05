@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppSight.Security.Cryptogra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppSight.Security.Cryptography.Tests", "AppSight.Security.Cryptography.Tests\AppSight.Security.Cryptography.Tests.csproj", "{1C77843E-88E9-4D5E-A75B-7351F9672E87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSight.Net.GitHub", "AppSight.Net.GitHub\AppSight.Net.GitHub.csproj", "{EC4348DD-AC55-4E21-A073-E48501F2FFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSight.AutoUpdate", "AppSight.AutoUpdate\AppSight.AutoUpdate.csproj", "{B0611644-1D0B-4252-B9FF-2D1831E72F49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1C77843E-88E9-4D5E-A75B-7351F9672E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C77843E-88E9-4D5E-A75B-7351F9672E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C77843E-88E9-4D5E-A75B-7351F9672E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4348DD-AC55-4E21-A073-E48501F2FFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4348DD-AC55-4E21-A073-E48501F2FFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4348DD-AC55-4E21-A073-E48501F2FFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4348DD-AC55-4E21-A073-E48501F2FFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0611644-1D0B-4252-B9FF-2D1831E72F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0611644-1D0B-4252-B9FF-2D1831E72F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0611644-1D0B-4252-B9FF-2D1831E72F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0611644-1D0B-4252-B9FF-2D1831E72F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
