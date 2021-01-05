@@ -42,7 +42,7 @@ namespace AppSight.Net.GitHub.Repositories
                     return releases
                         .Select(release => new Release
                         {
-                            Uri = release.Url,
+                            Uri = release.HtmlUrl,
                             Version = release.TagName.Replace("v", ""),
                             Timestamp = release.PublishedAt,
                         });
